@@ -1,0 +1,4 @@
+# config.toml
+[global]
+base_url = "https://api.example.com"  # 全局基础地址
+api_key = "your-api-key"  # 全局 API 密钥
